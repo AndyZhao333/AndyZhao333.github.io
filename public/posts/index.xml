@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hello Friend</title>
+    
+    
+    
+    <link>https://AndyZhao333.github.io/posts/</link>
+    <description>Recent content in Posts on Hello Friend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jun 2022 23:43:16 +0800</lastBuildDate>
+    
+	<atom:link href="https://AndyZhao333.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>第一次博客</title>
+      <link>https://AndyZhao333.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 28 Jun 2022 23:43:16 +0800</pubDate>
+      
+      <guid>https://AndyZhao333.github.io/posts/my-first-post/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          第一次博客出现了很多的问题
+问题一：环境变量的配置 # 环境变量的配置中应该修改的是系统变量而非是用户变量。
+问题二：md文件无法创建 # 这个问题在我删掉文件之后再创建就可以了
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
